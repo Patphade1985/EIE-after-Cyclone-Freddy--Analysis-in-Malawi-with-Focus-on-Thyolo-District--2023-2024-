@@ -1,0 +1,199 @@
+# ==============================================================================
+# .gitignore for UNICEF ECW Cyclone Freddy Education Analysis Project
+# Thyolo District, Malawi - March 2023
+# ==============================================================================
+
+# ==============================
+# 1. OPERATING SYSTEM FILES
+# ==============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ==============================
+# 2. PYTHON SPECIFIC
+# ==============================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==============================
+# 3. JUPYTER NOTEBOOK
+# ==============================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==============================
+# 4. IDE AND EDITOR FILES
+# ==============================
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Vim
+*.swp
+*.swo
+*~
+\#*\#
+/.vim/
+*.vim
+
+# ==============================
+# 5. VIRTUAL ENVIRONMENTS
+# ==============================
+# Virtual environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+conda/
+.env
+
+# ==============================
+# 6. DATA AND OUTPUT FILES
+# (Be selective - we want to keep our analysis outputs!)
+# ==============================
+# TEMPORARY DATA FILES (ignore)
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+
+# LARGE DATA FILES (if any - keep our CSV outputs!)
+# *.hdf5
+# *.h5
+# *.feather
+# *.parquet
+
+# ==============================
+# 7. PLOTLY CACHE
+# ==============================
+.plotly/
+
+# ==============================
+# 8. DOCUMENTATION
+# ==============================
+# Sphinx documentation
+docs/_build/
+/doc/_build/
+
+# ==============================
+# 9. PACKAGING
+# ==============================
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# ==============================
+# 10. SECURITY & CREDENTIALS
+# ==============================
+# NEVER COMMIT THESE!
+*.pem
+*.key
+*.cert
+*.crt
+*.secret
+secrets.yml
+credentials.json
+config.yml
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==============================
+# 11. SYSTEM SPECIFIC
+# ==============================
+# System-specific files
+*.sys
+*.dmp
+
+# ==============================
+# 12. PROJECT SPECIFIC IGNORES
+# (Add your project-specific ignores here)
+# ==============================
+# Raw/unprocessed data (if you have any)
+/raw_data/
+/unprocessed/
+/temp/
+
+# Downloaded files
+/downloads/
+
+# Cache directories
+.cache/
+
+# ==============================
+# 13. TEMPORARY NOTEBOOK OUTPUTS
+# ==============================
+# Temporary visualization files (we keep final ones)
+*.png~  # Temporary PNG files
+*.jpg~
+*.pdf~
+
+# ==============================
+# 14. ZIP AND ARCHIVES
+# (Keep if you want to track, ignore if temporary)
+# ==============================
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# ==============================================================================
+# IMPORTANT: Files to KEEP (do NOT ignore these!)
+# ==============================================================================
+# These are your project outputs - COMMENT OUT if you want them tracked
+# !ECW_*.png
+# !ECW_*.csv
+# !ECW_*.txt
+# !*.ipynb
