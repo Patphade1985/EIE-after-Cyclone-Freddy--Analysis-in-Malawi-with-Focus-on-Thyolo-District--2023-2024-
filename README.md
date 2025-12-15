@@ -201,7 +201,7 @@ This work is licensed under **Creative Commons Attribution 4.0 International** f
 ## **📞 Contact & Acknowledgments**
 
 ### **Project Team**
-- **Analysis Lead**: [Your Name/Organization]
+- **Analysis Lead**: [Patrick Chimadzuma/Organization]
 - **Data Verification**: Academic partners (2024 study)
 - **ECW Coordination**: UNICEF Education Cannot Wait team
 
@@ -258,7 +258,7 @@ This analysis directly contributes to:
 
 **📚 Education in Emergencies | 📊 Evidence-Based Analysis | 🤝 UNICEF ECW Partnership**
 
-*Last updated: [Current Date]*  
+*Last updated: [12/15/25]*  
 *For UNICEF ECW Malawi Cyclone Freddy Response*
 
 </div>
