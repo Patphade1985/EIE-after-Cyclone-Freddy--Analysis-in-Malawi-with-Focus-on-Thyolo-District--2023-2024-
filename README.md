@@ -10,6 +10,7 @@ This repository contains a comprehensive analysis of **Cyclone Freddy's impact o
 - Estimate financial recovery needs for education sector
 - Provide actionable recommendations for ECW programming
 - Create reproducible analysis framework for future disasters
+- Conduct qualitative coding on key EIE text ( coded file on repository)
 
 ---
 
