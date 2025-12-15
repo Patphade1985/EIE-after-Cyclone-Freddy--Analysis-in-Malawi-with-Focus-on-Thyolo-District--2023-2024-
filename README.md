@@ -56,7 +56,7 @@ Thyolo_Cyclone_Freddy_EiE_Analysis/
 │   └── ECW_Detailed_Analysis_Chart.png               # Three-panel detailed analysis
 │
 ├── 📝 Reports/
-│   └── ECW_Thyolo_Analysis_Report.txt                # Executive summary report
+│   └── ECW_Thyolo_Analysis_Report.txt                
 │
 ├── 📄 Documentation/
 │   ├── README.md                                     # This file
