@@ -3,7 +3,7 @@
 
 ## **🎯 Project Overview**
 
-This repository contains a comprehensive analysis of **Cyclone Freddy's impact on Malawi's education sector**, with detailed focus on **Thyolo District**. The analysis was conducted for **UNICEF Education Cannot Wait (ECW)** to support evidence-based humanitarian response planning.
+This repository contains a comprehensive analysis of **Cyclone Freddy's impact on Malawi's education sector**, with detailed focus on **Thyolo District** a blog based on ECW 2024 REPORT. The analysis was conducted for **UNICEF Education Cannot Wait (ECW)** to support evidence-based humanitarian response planning.
 
 ### **🔍 Key Objectives**
 - Quantify education infrastructure damage nationally and in Thyolo District
